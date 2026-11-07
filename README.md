@@ -8,6 +8,16 @@
   
   This prototype gives us the foundation to build upon as we improve the system. The planned version will use two IMU sensors, one on the forearm and one on the hand, to calculate the wrist angle. It will compare that angle with the target range and provide corresponding vibration feedback.
 
+## Prototype tests
+
+### Below the target range: 10 degrees
+![Below target range](below_target_10deg.jpeg)
+
+### Within the target range: 20 degrees
+![Within target range](within_target_20deg.jpeg)
+
+### Above the target range: 26 degrees
+![Above target range](above_target_26deg.jpeg)
 
 References
 Wang, X., Fu, Y., Ye, B., Babineau, J., Ding, Y., & Mihailidis, A. (2022). Technology-based compensation assessment and detection of upper extremity activities of stroke survivors: Systematic review. Journal of Medical Internet Research, 24(6). https://doi.org/10.2196/34307
